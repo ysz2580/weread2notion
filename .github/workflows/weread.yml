@@ -2,6 +2,9 @@ name: weread sync
 
 on:
   workflow_dispatch:
+  push:
+    branches:
+      - ysz2580-patch-1
   schedule:
     - cron: "0 0 * * *"
 jobs:
