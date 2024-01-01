@@ -34,11 +34,4 @@
     * Progress：阅读进度
 
 
-## 微信群
-> [!WARNING]  
-> 微信群已满，加我备注微信读书，我拉你进群。
-> 也可以加TG群：https://t.me/wereadnotion
-
- ![image](./asset/WechatIMG24.jpg)
-
 
